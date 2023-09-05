@@ -1,0 +1,4 @@
+export enum MEDIA {
+  PHONE = 'MEDIA_PHONE',
+  COMPUTER = 'MEDIA_COMPUTER',
+}
